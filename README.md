@@ -24,7 +24,7 @@ File Structure
 bash
 Copy code
 ├── pig_latin_translator.c   # Main program file
-└── README.md                # Documentation file (this file)
+└── README.md                # Documentation file 
 
 How to Compile and Run
 - Open a terminal and navigate to the folder containing pig_latin_translator.c.
